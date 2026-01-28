@@ -1,0 +1,9 @@
+.slideshow-image {
+  width: 300px;
+}
+
+.details {
+  margin-top: 16px;
+  display: flex;
+  justify-content: space-between;
+}
